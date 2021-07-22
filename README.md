@@ -1,5 +1,5 @@
 # streamlit-template
 
-This is a personal streamlit template.
+A streamlit app template.
 
-I took some of the code from another person but I could not find the source now. Should keep an eye on this.
+- Pages and utilities are structured.
