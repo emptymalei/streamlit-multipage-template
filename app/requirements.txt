@@ -1,0 +1,5 @@
+plotly-express==0.4.1
+streamlit==0.83.0
+pandas==1.2.5
+python-dotenv>=0.5.1
+loguru==0.5.3
