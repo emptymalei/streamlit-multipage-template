@@ -1,5 +1,7 @@
 # streamlit-template
 
+**Streamlit officially supports multipage**: [link to announcement](https://blog.streamlit.io/introducing-multipage-apps/)
+
 A streamlit app template.
 
 - Pages and utilities are structured.
